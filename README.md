@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏰 Tower Defense Game (Python)
 
 A simple Tower Defense game built using Python and Pygame.
@@ -22,3 +23,6 @@ python main.py
 - Multiple towers
 - Tower upgrades
 - Enemy types
+=======
+# simple-tower-defense
+>>>>>>> a8c6f468802d8af9e286a0af536b761ed7af2675
